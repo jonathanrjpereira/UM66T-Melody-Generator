@@ -6,11 +6,11 @@ An UM66T generates various Melody Tunes when triggered which can be used in car/
 ## Electronic Components
 | Qty | Component | Buy |
 | ------------- | ------------- | ------------- |
-| 1 | IC UM66T |[AliExpress](http://s.click.aliexpress.com/e/sCv1ACC) |
-| 1 | IC LM7833 |[AliExpress](http://s.click.aliexpress.com/e/c1pixqXe) |
+| 1 | IC UM66T |[AliExpress](http://s.click.aliexpress.com/e/tNfC3kG) |
+| 1 | IC LP2950-3.3 |[AliExpress](http://s.click.aliexpress.com/e/cAFcncQy) |
 | 1 | 220Ω 4.7KΩ Resistor |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
-| 1 | BC547 Transistor |[AliExpress](http://s.click.aliexpress.com/e/bh4eqrQs) |
-| 1 | SPDT Slide Switch |[AliExpress](http://s.click.aliexpress.com/e/c77Ajrpq) |
+| 1 | BC547 Transistor |[AliExpress](http://s.click.aliexpress.com/e/cYm6Rss0) |
+| 1 | SPDT Slide Switch |[AliExpress](http://s.click.aliexpress.com/e/cAs918wG) |
 | 1 | 5mm LED |[AliExpress](http://s.click.aliexpress.com/e/wuFpLXS) |
 | 1 | 100uF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/c9FHzl5W) |
 | 1 | 0.1uF Capacitor |[AliExpress](http://s.click.aliexpress.com/e/SX7eHuG) |
@@ -49,8 +49,8 @@ music.
 
 A 9V battery is used as the power supply. Since the UM66T has a maximum supply voltage of 4.5V,
 a linear regulator namely the LM7833 is used to reduce the supply voltage to a suitable 3.3V.
-When the SPDT slide switch is turned ON, the UM66T is triggered and produces a musical
-tune at its output pin. An external transistor amplifies the signal and it's output is
+When the SPDT slide switch is turned ON, the UM66T is triggered and produces a melody signal that begins
+from the first note due to the power on reset feature. An external transistor amplifies the signal and it's output is
 connected to a speaker. An LED turns on whenever the circuit is triggered.
 
 ## Contributing🛠
