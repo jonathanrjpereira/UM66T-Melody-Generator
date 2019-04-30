@@ -156,8 +156,6 @@
 </layers>
 <board>
 <plain>
-<dimension x1="18" y1="68" x2="68" y2="68" x3="43" y3="14" textsize="1.778" layer="1"/>
-<dimension x1="18" y1="68" x2="18" y2="18" x3="72" y3="43" textsize="1.778" layer="1"/>
 <circle x="21" y="65" radius="1.4142125" width="0.1524" layer="45"/>
 <circle x="65" y="65" radius="1.4142125" width="0.1524" layer="45"/>
 <circle x="65" y="21" radius="1.4142125" width="0.1524" layer="45"/>
@@ -167,7 +165,7 @@
 <wire x1="68" y1="18" x2="18" y2="18" width="0.127" layer="20"/>
 <wire x1="18" y1="18" x2="18" y2="68" width="0.127" layer="20"/>
 <text x="23" y="62" size="1.778" layer="21">Melody Generator</text>
-<text x="40" y="25" size="3.81" layer="21" rot="R30">Electro Guruji</text>
+<text x="38" y="29" size="3.81" layer="21" rot="R30">Electro Guruji</text>
 <text x="48" y="21" size="5.08" layer="21" rot="R30">Jonty</text>
 <text x="38" y="39" size="5.08" layer="16" rot="MR150">Jonty</text>
 </plain>
