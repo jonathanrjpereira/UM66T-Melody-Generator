@@ -1,7 +1,10 @@
 # UM66T Melody Generator
 An UM66T generates various Melody Tunes when triggered which can be used in car/scooter reverse signals, doorbells and toys.
 
-**Order PCB:**
+**Full Video:**
+[![Musical Bell](https://img.youtube.com/vi/mgVWPtU8XC8/maxresdefault.jpg)](https://youtu.be/mgVWPtU8XC8)
+
+**Order PCB:**  [PCBWay](https://www.pcbway.com/project/shareproject/Musical_Bell.html)
 
 ## Electronic Components
 | Qty | Component | Buy |
@@ -23,6 +26,9 @@ An UM66T generates various Melody Tunes when triggered which can be used in car/
 |Soldering Iron|[AliExpress](http://s.click.aliexpress.com/e/E83bSJI) |
 |Soldering Wire|[AliExpress](http://s.click.aliexpress.com/e/PdhB0nm) |
 |Mini PCB Hand Drill + Bits|[AliExpress](http://s.click.aliexpress.com/e/b93tomjI) |
+|Wire Cutter|[AliExpress](http://s.click.aliexpress.com/e/bHFL9vLi) |
+|Wire Stripper|[AliExpress](http://s.click.aliexpress.com/e/4yJWedw) |
+|Soldering Helping Hands|[AliExpress](http://s.click.aliexpress.com/e/cAQ2StNm) |
 
 ## Working
 **UM66T:**
